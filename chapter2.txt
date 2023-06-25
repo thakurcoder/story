@@ -1,0 +1,9 @@
+In the journey of learning git with angela yu,
+in chapter 1 i learn about:
+1> how to initialize the git into a directory by command git init 
+2> how to add code "into the stand" in technical term how to track file by command git add
+3> how to see the status of the file that it is tracked or untracked by command git status
+4> how to commit the file and print the message about the change by command git commit -m "message"
+5> to see the number of commit we write the command git log
+
+
