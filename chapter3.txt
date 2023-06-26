@@ -1,0 +1,3 @@
+in this i learn :-
+1> how to see difference which has been changed in previous vrsion and leatist version of code by command git diff file_name
+2> how to go to previous version by command git checkout file_name
